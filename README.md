@@ -4,11 +4,11 @@ This public repository is the official artifact mirror and checksum archive for 
 
 ## Latest Release
 
-- **Version:** `1.0.13` (`versionCode: 1000013`, stable)
-- **File:** [`VioRelay-1.0.13.apk`](https://github.com/lingcang728/VioRelay-Releases/releases/download/v1.0.13/VioRelay-1.0.13.apk) (9.6 MB / 10,062,945 bytes)
-- **Release Notes:** [v1.0.13 on GitHub Releases](https://github.com/lingcang728/VioRelay-Releases/releases/tag/v1.0.13)
+- **Version:** `1.0.16` (`versionCode: 1000016`, stable)
+- **File:** [`VioRelay-1.0.16.apk`](https://github.com/lingcang728/VioRelay-Releases/releases/download/v1.0.16/VioRelay-1.0.16.apk) (9.7 MB / 10,128,481 bytes)
+- **Release Notes:** [v1.0.16 on GitHub Releases](https://github.com/lingcang728/VioRelay-Releases/releases/tag/v1.0.16)
 - **APK SHA-256:**
-  `ac3768772d6baee0fdfd2dadb568e87ee5575f463bbef1ca1e5f5dd50f8b7a37`
+  `ba485265c30b8c64fbeade3e3cf8de2b304a3dbc1e56fb71e88f7a9543f66003`
 
 ## Download
 
