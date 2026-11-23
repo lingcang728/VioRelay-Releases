@@ -14,7 +14,6 @@ This public repository is the official artifact mirror and checksum archive for 
 
 - **Official website (primary download & setup guide):** [viorelay-android.pages.dev](https://viorelay-android.pages.dev/)
 - **GitHub Releases (signed APK mirror & SHA-256 checksums):** [Releases](https://github.com/lingcang728/VioRelay-Releases/releases)
-- **Windows Receiver (Microsoft Store):** [VioRelay on Microsoft Store](https://apps.microsoft.com/detail/9P2L92V3VL5M)
 - **Support & Privacy:** [Setup Guide](https://viorelay-android.pages.dev/support.html) · [Privacy Policy](https://viorelay-android.pages.dev/privacy.html) · `support@houroute.com`
 
 ## Package & Verification
